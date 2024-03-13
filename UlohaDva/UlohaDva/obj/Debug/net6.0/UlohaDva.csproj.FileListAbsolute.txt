@@ -1,0 +1,14 @@
+D:\Programko\UlohaDva\UlohaDva\bin\Debug\net6.0\UlohaDva.exe
+D:\Programko\UlohaDva\UlohaDva\bin\Debug\net6.0\UlohaDva.deps.json
+D:\Programko\UlohaDva\UlohaDva\bin\Debug\net6.0\UlohaDva.runtimeconfig.json
+D:\Programko\UlohaDva\UlohaDva\bin\Debug\net6.0\UlohaDva.dll
+D:\Programko\UlohaDva\UlohaDva\bin\Debug\net6.0\UlohaDva.pdb
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\UlohaDva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\UlohaDva.AssemblyInfoInputs.cache
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\UlohaDva.AssemblyInfo.cs
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\UlohaDva.csproj.CoreCompileInputs.cache
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\UlohaDva.dll
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\refint\UlohaDva.dll
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\UlohaDva.pdb
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\UlohaDva.genruntimeconfig.cache
+D:\Programko\UlohaDva\UlohaDva\obj\Debug\net6.0\ref\UlohaDva.dll
