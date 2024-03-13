@@ -1,0 +1,14 @@
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\UlohaJedna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\UlohaJedna.AssemblyInfoInputs.cache
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\UlohaJedna.AssemblyInfo.cs
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\UlohaJedna.csproj.CoreCompileInputs.cache
+D:\Programko\UlohaJedna\UlohaJedna\bin\Debug\net6.0\UlohaJedna.exe
+D:\Programko\UlohaJedna\UlohaJedna\bin\Debug\net6.0\UlohaJedna.deps.json
+D:\Programko\UlohaJedna\UlohaJedna\bin\Debug\net6.0\UlohaJedna.runtimeconfig.json
+D:\Programko\UlohaJedna\UlohaJedna\bin\Debug\net6.0\UlohaJedna.dll
+D:\Programko\UlohaJedna\UlohaJedna\bin\Debug\net6.0\UlohaJedna.pdb
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\UlohaJedna.dll
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\refint\UlohaJedna.dll
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\UlohaJedna.pdb
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\UlohaJedna.genruntimeconfig.cache
+D:\Programko\UlohaJedna\UlohaJedna\obj\Debug\net6.0\ref\UlohaJedna.dll
