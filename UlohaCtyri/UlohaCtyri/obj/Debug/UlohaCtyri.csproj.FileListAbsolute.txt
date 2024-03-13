@@ -1,0 +1,7 @@
+D:\Programko\UlohaCtyri\UlohaCtyri\bin\Debug\UlohaCtyri.exe.config
+D:\Programko\UlohaCtyri\UlohaCtyri\bin\Debug\UlohaCtyri.exe
+D:\Programko\UlohaCtyri\UlohaCtyri\bin\Debug\UlohaCtyri.pdb
+D:\Programko\UlohaCtyri\UlohaCtyri\obj\Debug\UlohaCtyri.csproj.AssemblyReference.cache
+D:\Programko\UlohaCtyri\UlohaCtyri\obj\Debug\UlohaCtyri.csproj.CoreCompileInputs.cache
+D:\Programko\UlohaCtyri\UlohaCtyri\obj\Debug\UlohaCtyri.exe
+D:\Programko\UlohaCtyri\UlohaCtyri\obj\Debug\UlohaCtyri.pdb
