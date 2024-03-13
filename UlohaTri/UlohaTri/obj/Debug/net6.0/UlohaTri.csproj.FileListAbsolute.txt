@@ -1,0 +1,14 @@
+D:\Programko\UlohaTri\UlohaTri\bin\Debug\net6.0\UlohaTri.exe
+D:\Programko\UlohaTri\UlohaTri\bin\Debug\net6.0\UlohaTri.deps.json
+D:\Programko\UlohaTri\UlohaTri\bin\Debug\net6.0\UlohaTri.runtimeconfig.json
+D:\Programko\UlohaTri\UlohaTri\bin\Debug\net6.0\UlohaTri.dll
+D:\Programko\UlohaTri\UlohaTri\bin\Debug\net6.0\UlohaTri.pdb
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\UlohaTri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\UlohaTri.AssemblyInfoInputs.cache
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\UlohaTri.AssemblyInfo.cs
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\UlohaTri.csproj.CoreCompileInputs.cache
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\UlohaTri.dll
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\refint\UlohaTri.dll
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\UlohaTri.pdb
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\UlohaTri.genruntimeconfig.cache
+D:\Programko\UlohaTri\UlohaTri\obj\Debug\net6.0\ref\UlohaTri.dll
